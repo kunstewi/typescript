@@ -1,0 +1,1 @@
+// Implement a type guard function isString(value: unknown): value is string. Write a test file using assertions to confirm it behaves correctly with mixed input types.

@@ -1,0 +1,1 @@
+// Simulate a function that calculates average temperature readings. Use assertions to ensure values are within a valid range (e.g., -50 < temp < 50).

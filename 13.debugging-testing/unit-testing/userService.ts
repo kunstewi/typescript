@@ -1,0 +1,1 @@
+// Create a UserService class with a method getUserById(id: number). Mock the data source and write tests for valid and invalid IDs.

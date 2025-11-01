@@ -1,0 +1,1 @@
+// Test a function that throws an error when invalid input is provided. Verify that the test correctly expects the error using toThrow().

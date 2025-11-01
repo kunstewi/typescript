@@ -1,0 +1,1 @@
+// Write a TypeScript function that calculates the factorial of a number. Intentionally introduce a bug, and use console.log() or the VS Code debugger to find and fix it.

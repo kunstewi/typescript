@@ -1,0 +1,1 @@
+// Write parameterized tests (using test.each) in Jest to verify multiple inputs for a function calculateDiscount(price, rate).

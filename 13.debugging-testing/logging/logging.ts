@@ -1,0 +1,1 @@
+// Implement a custom logger class in TypeScript that supports info, warn, and error levels. Use it in a mock application (e.g., file uploader) to demonstrate logging structured data with timestamps and log levels.

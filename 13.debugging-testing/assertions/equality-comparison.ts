@@ -1,0 +1,1 @@
+// Write a function that returns a user object and use assert.strictEqual and assert.deepStrictEqual to verify equality between expected and actual results.

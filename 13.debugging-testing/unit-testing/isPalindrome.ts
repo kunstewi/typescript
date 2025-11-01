@@ -1,0 +1,1 @@
+// Write a function isPalindrome(str: string) and test edge cases: empty string, single character, mixed case, punctuation, etc.
