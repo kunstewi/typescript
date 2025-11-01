@@ -1,0 +1,1 @@
+// Create a script that watches a directory for file changes using Node.js fs.watch() and emits corresponding events.

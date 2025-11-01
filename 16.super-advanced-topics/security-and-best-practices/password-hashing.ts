@@ -1,0 +1,1 @@
+// Implement password hashing and verification using bcryptjs in TypeScript. Explain why plain-text passwords are insecure.

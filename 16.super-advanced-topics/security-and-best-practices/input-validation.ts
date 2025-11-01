@@ -1,0 +1,1 @@
+// Build a small Express endpoint /register that validates input using zod or class-validator. Reject malformed requests.

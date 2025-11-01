@@ -1,0 +1,1 @@
+// Write a TypeScript function that sends a POST request with JSON data to a test API and handles possible network errors gracefully.

@@ -1,0 +1,1 @@
+// Build a ShapeFactory that returns different objects (Circle, Square, etc.) implementing a Shape interface with a draw() method.

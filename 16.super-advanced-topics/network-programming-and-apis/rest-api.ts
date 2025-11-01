@@ -1,0 +1,1 @@
+// Build a minimal REST API with Express + TypeScript supporting CRUD for a Book resource (title, author, year).

@@ -1,0 +1,1 @@
+// Simulate CPU-bound tasks (like calculating Fibonacci numbers) using worker_threads in Node.js TypeScript.

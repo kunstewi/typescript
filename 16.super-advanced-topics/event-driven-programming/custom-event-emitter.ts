@@ -1,0 +1,1 @@
+// Implement your own EventEmitter class with .on(), .off(), and .emit() methods in TypeScript.

@@ -1,0 +1,1 @@
+// Create a PaymentProcessor class that supports different strategies — CreditCardPayment, PayPalPayment, etc.

@@ -1,0 +1,1 @@
+// Implement a basic event system using the Observer pattern — classes can subscribe to and emit events like "dataReceived".
