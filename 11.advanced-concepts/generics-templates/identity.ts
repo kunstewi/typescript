@@ -1,0 +1,1 @@
+// Create a generic function identity that takes a value of any type and returns it. Then, constrain it so it only accepts number or string.

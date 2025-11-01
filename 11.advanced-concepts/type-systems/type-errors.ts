@@ -1,0 +1,1 @@
+// Explain and demonstrate how TypeScript catches type errors at compile time but not at runtime with an example.

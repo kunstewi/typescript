@@ -1,0 +1,1 @@
+// Write a function that accepts a dynamic object (unknown type) and safely checks its shape using type guards.

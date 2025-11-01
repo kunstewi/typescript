@@ -1,0 +1,1 @@
+// Write a generic function getProperty<T, K extends keyof T>(obj: T, key: K) that safely retrieves a property from an object.

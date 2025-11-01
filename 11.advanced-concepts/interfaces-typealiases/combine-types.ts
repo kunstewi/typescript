@@ -1,0 +1,1 @@
+// Combine multiple type aliases using intersections (&) and unions (|). Create a type that represents a user that can be both Admin and Editor.

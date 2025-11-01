@@ -1,0 +1,1 @@
+// Use reduce to calculate the total price from an array of { name: string, price: number } objects.

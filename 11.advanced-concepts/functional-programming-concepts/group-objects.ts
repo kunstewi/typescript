@@ -1,0 +1,1 @@
+// Write a function groupBy<T>(arr: T[], key: keyof T) that groups objects by a key using reduce.

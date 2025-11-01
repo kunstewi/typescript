@@ -1,0 +1,1 @@
+// Write a generic Stack<T> class with methods push, pop, and peek.

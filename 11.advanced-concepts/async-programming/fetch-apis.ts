@@ -1,0 +1,1 @@
+// Create an async function that fetches multiple APIs in parallel and returns whichever one resolves first using Promise.race.

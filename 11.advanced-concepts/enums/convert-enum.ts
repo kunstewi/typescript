@@ -1,0 +1,1 @@
+// Convert a string enum into a union type of possible values and demonstrate type inference when using it.

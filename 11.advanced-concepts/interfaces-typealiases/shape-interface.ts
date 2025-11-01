@@ -1,0 +1,1 @@
+// Define an interface Shape with a method area(). Then create two classes (Circle, Rectangle) that implement it.

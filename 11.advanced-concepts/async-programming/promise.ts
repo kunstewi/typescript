@@ -1,0 +1,1 @@
+// Create an async function that calls two Promise-returning functions sequentially, logs their results, and handles errors.

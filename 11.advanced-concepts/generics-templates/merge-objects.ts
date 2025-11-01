@@ -1,0 +1,1 @@
+// Create a generic function mergeObjects<T, U>(obj1: T, obj2: U) that merges two objects and returns their combined type.

@@ -1,0 +1,1 @@
+// Demonstrate the difference between Promise.all and Promise.allSettled with a mix of resolved and rejected promises.

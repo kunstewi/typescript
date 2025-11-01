@@ -1,0 +1,1 @@
+// Show how const enum differs from a regular enum in performance and compile output.

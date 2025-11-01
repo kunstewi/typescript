@@ -1,0 +1,1 @@
+// Write a compose function that takes two functions and returns their composition (i.e., compose(f, g)(x) should equal f(g(x))).

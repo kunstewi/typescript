@@ -1,0 +1,1 @@
+// Demonstrate how to narrow a union type (string | number | boolean) inside a function using type narrowing.

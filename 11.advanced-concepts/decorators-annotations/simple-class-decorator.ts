@@ -1,0 +1,1 @@
+// Create a simple class decorator that logs when a class is instantiated.

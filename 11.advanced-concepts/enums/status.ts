@@ -1,0 +1,1 @@
+// Create a numeric enum called Status (Pending, Success, Failed) and a function that returns different messages based on the status.

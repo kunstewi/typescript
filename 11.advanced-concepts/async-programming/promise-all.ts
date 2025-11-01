@@ -1,0 +1,1 @@
+// Demonstrate running multiple promises in parallel using Promise.all.

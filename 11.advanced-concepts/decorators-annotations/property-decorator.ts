@@ -1,0 +1,1 @@
+// Implement a property decorator that validates whether a property value is a string before setting it.

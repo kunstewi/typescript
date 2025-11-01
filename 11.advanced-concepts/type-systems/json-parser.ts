@@ -1,0 +1,1 @@
+// Write a type-safe function parseJson<T>(jsonString: string): T | null that safely parses JSON strings.

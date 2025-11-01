@@ -1,0 +1,1 @@
+// Define a generic interface Response<T> that wraps API data (e.g., { data: T; status: number }). Use it with multiple data shapes.

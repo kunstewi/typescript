@@ -1,0 +1,1 @@
+// Given an array of user objects, return an array of usernames in uppercase using map.

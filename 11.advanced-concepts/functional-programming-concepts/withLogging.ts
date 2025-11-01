@@ -1,0 +1,1 @@
+// Create a higher-order function withLogging that takes a function and returns a new function that logs its arguments and result.

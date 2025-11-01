@@ -1,0 +1,1 @@
+// Show the difference between interface and type when defining an object shape and extending it.

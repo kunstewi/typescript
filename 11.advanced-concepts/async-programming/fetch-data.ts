@@ -1,0 +1,1 @@
+// Write a function fetchData(url: string): Promise<string> that simulates fetching data with a setTimeout.
