@@ -1,0 +1,1 @@
+// Write a program using a for loop to calculate and print the sum of all numbers from 1 to 100.

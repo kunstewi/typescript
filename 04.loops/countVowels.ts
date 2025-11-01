@@ -1,0 +1,1 @@
+// Given a string "typescript", use a for...of loop to count and print how many vowels it contains.
