@@ -1,0 +1,1 @@
+// Write a TypeScript program that checks whether a number n is positive, negative, or zero using if, else if, and else.
