@@ -1,0 +1,1 @@
+// Write a TypeScript function isEven(num: number): boolean that determines if a number is even using bitwise operators (hint: num & 1).

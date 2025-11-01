@@ -1,0 +1,2 @@
+// Write a TypeScript function calculateArea(length: number, width: number): number that returns the area of a rectangle.
+// Then test it with sample values and also compute the perimeter using arithmetic operators.
