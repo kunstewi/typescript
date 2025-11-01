@@ -1,0 +1,1 @@
+// Write a function findMinMax(arr: number[]): { min: number; max: number } that returns both the smallest and largest numbers in the array.

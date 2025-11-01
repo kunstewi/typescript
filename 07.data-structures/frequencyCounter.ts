@@ -1,0 +1,1 @@
+// Write a function charFrequency(str: string): Record<string, number> that counts how many times each character appears in a string.

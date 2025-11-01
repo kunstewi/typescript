@@ -1,0 +1,1 @@
+// Write a function countVowels(str: string): number that counts how many vowels appear in the string.

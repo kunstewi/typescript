@@ -1,0 +1,1 @@
+// Write a function isPalindrome(str: string): boolean that returns true if the string is the same when reversed.
