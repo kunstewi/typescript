@@ -1,0 +1,2 @@
+// Write a simple TypeScript file (index.ts) using types and interfaces, then compile it to JavaScript using tsc.
+// → Practice: Observe differences between the .ts and .js files and explain why they exist.
