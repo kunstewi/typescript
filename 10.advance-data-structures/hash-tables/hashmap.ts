@@ -1,0 +1,1 @@
+// Implement a simple hash map in TypeScript with set, get, and remove methods (handle collisions with chaining).

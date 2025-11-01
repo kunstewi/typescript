@@ -1,0 +1,1 @@
+// Implement a stack class using arrays in TypeScript with push, pop, peek, and isEmpty methods.

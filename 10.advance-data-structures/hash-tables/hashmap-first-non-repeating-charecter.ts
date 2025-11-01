@@ -1,0 +1,1 @@
+// Write a function that finds the first non-repeating character in a string using a hash map.

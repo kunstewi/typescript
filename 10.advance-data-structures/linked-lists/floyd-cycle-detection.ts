@@ -1,0 +1,1 @@
+// Detect if a linked list has a cycle using Floyd’s cycle detection algorithm.

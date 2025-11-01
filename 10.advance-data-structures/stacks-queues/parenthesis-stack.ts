@@ -1,0 +1,1 @@
+// Use a stack to check if a string of parentheses (e.g., "([]{})") is balanced.

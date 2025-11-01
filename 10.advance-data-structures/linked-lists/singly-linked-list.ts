@@ -1,0 +1,1 @@
+// Create a singly linked list class in TypeScript with methods: insertAtEnd, insertAtBeginning, deleteValue, and printList.

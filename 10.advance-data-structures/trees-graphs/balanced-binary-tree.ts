@@ -1,0 +1,1 @@
+// Check if a binary tree is balanced (height difference ≤ 1 for all nodes).

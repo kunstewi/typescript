@@ -1,0 +1,1 @@
+// Given two arrays, check if they are anagrams using a hash map to count characters.
