@@ -7,3 +7,6 @@ console.log((p + q > 12) && (p - q < 6));
 
 // Predict the result before running — then verify in code.
 
+console.log((p * q > 40) || (p / q === 2)); // true || true → true
+console.log(!(p + q < 20));                 // !(15 < 20) → !(true) → false
+console.log((p % q === 0) && (p > q));      // (0 === 0) && true → true

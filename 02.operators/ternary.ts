@@ -13,3 +13,11 @@
 // ≥ 50 → "C"
 
 // else → "F"
+
+let marks = 66;
+
+console.log(marks >= 40 ? "Pass" : "Fail");
+
+let grade = marks >= 90 ? "A" : marks >= 75 ? "B" : marks >= 50 ? "C" : "F";
+
+console.log(grade)
