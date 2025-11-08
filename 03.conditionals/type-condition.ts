@@ -7,4 +7,5 @@
 // "Boolean" if boolean
 
 // "Unknown type" otherwise
+
 // Use both if-else and a switch version for practice.
