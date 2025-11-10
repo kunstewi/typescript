@@ -6,3 +6,9 @@
 
 // welcomeUser("Alice"); // "Hello, Alice!"
 // welcomeUser("Bob", "Good morning"); // "Good morning, Bob!"
+
+function welcomeUser(name: string, greetings: string = "Hello"): string {
+  return `${greetings}, ${name}`;
+}
+
+console.log(welcomeUser("John", "Good Morning"))

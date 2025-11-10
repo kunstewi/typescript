@@ -4,3 +4,13 @@
 // example
 // const double = makeMultiplier(2);
 // console.log(double(5)); // 10
+
+function makeMultiplier(multiplier: number) {
+  return function (num: number): number {
+    return num * multiplier;
+  };
+}
+
+let double = makeMultiplier(2)
+
+console.log(double(5))
