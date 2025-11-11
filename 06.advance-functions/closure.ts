@@ -10,3 +10,18 @@
 // const c = counter();
 // c.increment();
 // console.log(c.getValue()); // 1
+
+function counter(): { increment: () => void; getValue: () => number } {
+  let count = 0;
+
+  return {
+    increment: () => {
+      count++;
+    },
+    getValue: () => count,
+  };
+}
+
+const cuu = counter();
+cuu.increment();
+console.log(cuu.getValue());
