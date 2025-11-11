@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/kunstewi/typescript#readme",
   "devDependencies": {
-    "@types/node": "^24.9.2"
+    "@types/node": "^24.10.0"
   }
 }
