@@ -14,3 +14,20 @@
 
 // function formatValue(value: number): string;
 // function formatValue(value: string): string;
+
+// Overload signatures
+function formatValue(value: number): string;
+function formatValue(value: string): string;
+
+// Single implementation
+function formatValue(value: number | string): string {
+  if (typeof value === "number") {
+    return `Value: ${value}`;
+  } else {
+    return `String: ${value}`;
+  }
+}
+
+// ✅ Example usage
+console.log(formatValue(10));      // "Value: 10"
+console.log(formatValue("hello")); // "String: hello"
