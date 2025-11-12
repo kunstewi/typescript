@@ -1,1 +1,0 @@
-// Write a function removeDuplicates(arr: number[]): number[] that removes duplicate elements from an array.

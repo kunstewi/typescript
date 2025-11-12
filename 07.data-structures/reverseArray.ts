@@ -1,1 +1,0 @@
-// Write a function reverseArray(arr: number[]): number[] that returns the reversed version of the given array without using reverse().
