@@ -6,7 +6,6 @@
 
 // Then test it with multiple inputs and use both == and === to observe any difference.
 
-function isAdult(age:number): boolean {
-    return age >= 18;
+function isAdult(age: number): boolean {
+  return age >= 18;
 }
-

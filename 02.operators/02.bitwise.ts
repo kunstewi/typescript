@@ -2,6 +2,8 @@
 
 // the binary of odd numbers end with 1 and the binary of even numbers end with 0
 
+// 0 is false and 1 is true
+
 // Function to check if a number is even using bitwise operator
 function isEven(num: number): boolean {
   // Bitwise AND with 1 checks the least significant bit
