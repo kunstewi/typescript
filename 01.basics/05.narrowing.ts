@@ -3,12 +3,13 @@
 // Adds 10 if it’s a number
 
 // Appends "!" if it’s a string
+
 // 👉 Goal: Practice type narrowing using typeof checks.
 
-function processValue(value: number | string) {
+function processValue(value: number | string): number | string {
   if (typeof value === "number") {
     return value + 10; // add 10 if it's number
-  } else if (typeof value === "string") {
+  } else {
     return value + "!"; // appends ! if value is a string
   }
 }
