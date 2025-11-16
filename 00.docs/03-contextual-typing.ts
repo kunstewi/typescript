@@ -1,0 +1,1 @@
+// give an example of contextual typing in anonymous functions 

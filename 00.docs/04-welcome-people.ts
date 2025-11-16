@@ -1,0 +1,1 @@
+// write a function welcomeTraveller that takes array and string union types when array welcome all of the travellers in the array adding and between the names, for string input welcome the lone traveller
