@@ -11,6 +11,8 @@
 // "F" for below 60
 // Use if-else if-else structure.
 
+// also solve with switch statement
+
 let studentMarks: number = 68;
 let studentGrade: String;
 
@@ -54,3 +56,24 @@ if (studentMarks >= 90) {
 // console.log(studentMarks, studentGrade);
 
 console.log(studentMarks, studentGrade);
+
+switch (true) {
+  case studentMarks >= 90:
+    studentGrade = "A";
+    break;
+
+  case studentMarks >= 80:
+    studentGrade = "B";
+    break;
+
+  case studentMarks >= 70:
+    studentGrade = "C";
+    break;
+
+  case studentMarks >= 60:
+    studentGrade = "D";
+    break;
+
+  default:
+    studentGrade = "F";
+}
