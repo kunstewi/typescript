@@ -1,6 +1,7 @@
 // Scope and Shadowing
 
 // Define a global variable let count = 10;.
+
 // Then write a function increment() that:
 
 // Has a local variable count = 5;

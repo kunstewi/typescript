@@ -41,3 +41,59 @@ function sumArray(arr: number[]): number {
 }
 
 console.log(sumArray([1, 2, 3, 4, 5])); // 15
+
+// using for loop
+
+function sumArrayFor(arr: number[]): number {
+  let sum: number = 0;
+
+  for (let i = 0; i < arr.length; i++) {
+    sum += arr[i];
+  }
+
+  return sum;
+}
+
+// using for of loop
+
+function sumArrayForOf(arr: number[]): number {
+  let sum = 0;
+
+  for (const num of arr) {
+    sum += num;
+  }
+
+  return sum;
+}
+
+// using while loop
+
+function sumArrayWhile(arr: number[]): number {
+  let sum = 0;
+  let i = 0;
+
+  while (i < arr.length) {
+    sum += arr[i];
+    i++
+  }
+
+  return sum;
+}
+
+// using do while loop
+
+function sumArrayDoWhile(arr: number[]): number {
+  let sum = 0;
+  let i = 0;
+
+  if (arr.length === 0) {
+    return 0;
+  }
+
+  do {
+    sum += arr[i];
+    i++;
+  } while (i < arr.length);
+
+  return sum;
+}
